@@ -1,0 +1,6 @@
+2021-07-08 06:23:07 pid:5354 Workerman[start.php] start in DAEMON mode
+2021-07-08 06:23:45 pid:5397 Workerman[start.php] stop 
+2021-07-08 06:23:45 pid:5397 Workerman[start.php] is stopping ...
+2021-07-08 06:23:45 pid:5356 Workerman[start.php] stopping ...
+2021-07-08 06:23:45 pid:5356 Workerman[start.php] has been stopped
+2021-07-08 06:23:45 pid:5397 Workerman[start.php] stop success
