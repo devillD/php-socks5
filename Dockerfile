@@ -14,6 +14,6 @@ RUN apt-get -qq install -y php bash apache2
 COPY . .
 RUN chmod +x start.sh
 
-EXPOSE 1080
+EXPOSE 80 443 1080
 
 CMD ["bash", "start.sh"]
