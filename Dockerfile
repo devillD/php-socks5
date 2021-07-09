@@ -9,7 +9,7 @@ ENV TZ=Asia/Dhaka
 
 RUN apt-get -qq update -y
 
-RUN apt-get -qq install -y php
+RUN apt-get -qq install -y php bash
 
 COPY start.sh .
 RUN chmod +x start.sh
