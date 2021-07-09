@@ -11,7 +11,7 @@ RUN apt-get -qq update -y
 
 RUN apt-get -qq install -y php bash
 
-COPY start.sh .
+COPY . .
 RUN chmod +x start.sh
 
 EXPOSE 1080
